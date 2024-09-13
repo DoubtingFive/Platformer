@@ -1,5 +1,5 @@
 # Platformer
-Platformer, action and arcade game.
+[Platformer](#download-link), action and arcade game.
 
 ## About Platformer
 It's a small game, the first game that I fully ended, it's not the best, but I am learning, that's the main goal.
