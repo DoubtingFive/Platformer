@@ -40,5 +40,9 @@ Multiplayer is hard for me. I want to do it, it fits perfectly to have it in thi
 If I ever update this game, it'll be a multiplayer update.
 
 
+## Controls
+![{430A4232-057E-4296-A966-A997C1B2A36C}](https://github.com/user-attachments/assets/1315f875-dc06-4abe-86a2-a25958ee03fa)
+
+
 # Download Link
 https://www.dropbox.com/scl/fi/2nejixd506sezgeg1ya6y/Platformer0.7.zip?rlkey=xw42e53w3j7mtp7aqjq1e94g4&st=owdmxy9e&dl=1
