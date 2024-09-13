@@ -41,7 +41,7 @@ If I ever update this game, it'll be a multiplayer update.
 
 
 ## Controls
-![{430A4232-057E-4296-A966-A997C1B2A36C}](https://github.com/user-attachments/assets/1315f875-dc06-4abe-86a2-a25958ee03fa)
+![{78B2FAC2-83CD-4318-8FAA-B141238422FC}](https://github.com/user-attachments/assets/2ba7c1ce-1e5f-4c0e-b29a-b81f81673c76)
 
 
 # Download Link
