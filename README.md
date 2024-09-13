@@ -8,11 +8,13 @@ It's a small game, the first game that I fully ended, it's not the best, but I a
 
 ## Sword weapon
 Watch this video to see an example of platformer gameplay with the keyboard as a sword. The PS4 controller is the natively tested gamepad, but it should work with others as well.
+
 [Presentation video](https://www.dropbox.com/scl/fi/xquoc1q2r9nmyk3jhqwm7/Platformer.mp4?rlkey=frj7sw7vl09bf9wmrktryz5sn&st=e650mxck&dl=0)
 
 
 ## Laser weapon
 I also included a laser in this game. While it is not as effective on a keyboard, this weapon is best suited for a gamepad.
+
 [Presentation video is in progress.]
 
 
