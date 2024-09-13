@@ -34,14 +34,14 @@ There are several game mechanics, it's not needed to know, but you can have some
  - The yellow bar under the enemy health bar is attack cooldown, it's not 100% accurate because some attacks shoot more bullets.
 
 
+## Controls
+![{78B2FAC2-83CD-4318-8FAA-B141238422FC}](https://github.com/user-attachments/assets/2ba7c1ce-1e5f-4c0e-b29a-b81f81673c76)
+
+
 ## Multiplayer
 Multiplayer is hard for me. I want to do it, it fits perfectly to have it in this game, but I don't know what's going on in online games.
 
 If I ever update this game, it'll be a multiplayer update.
-
-
-## Controls
-![{78B2FAC2-83CD-4318-8FAA-B141238422FC}](https://github.com/user-attachments/assets/2ba7c1ce-1e5f-4c0e-b29a-b81f81673c76)
 
 
 # Download Link
