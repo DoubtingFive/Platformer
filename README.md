@@ -15,7 +15,7 @@ Watch this video to see an example of platformer gameplay with the keyboard as a
 ## Laser weapon
 I also included a laser in this game. While it is not as effective on a keyboard, this weapon is best suited for a gamepad.
 
-[Presentation video is in progress.]
+[Presentation video](https://www.dropbox.com/scl/fi/duatbyjt97me07k21bedy/PlatformerLaser.mp4?rlkey=btwsz5lfvfne27v8o0wm747zs&st=h8ar79pn&dl=0)
 
 
 ## Mechanics
