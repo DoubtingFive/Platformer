@@ -9,13 +9,9 @@ It's a small game, the first game that I fully made from the begining to the end
 ## Sword weapon
 Watch this video to see an example of platformer gameplay with the keyboard as a sword. The PS4 controller is the natively tested gamepad, but it should work with others as well.
 
-[Presentation video](https://www.dropbox.com/scl/fi/xquoc1q2r9nmyk3jhqwm7/Platformer.mp4?rlkey=frj7sw7vl09bf9wmrktryz5sn&st=e650mxck&dl=0)
-
 
 ## Laser weapon
 I also included a laser in this game. While it is not as effective on a keyboard, this weapon is best suited for a gamepad.
-
-[Presentation video](https://www.dropbox.com/scl/fi/duatbyjt97me07k21bedy/PlatformerLaser.mp4?rlkey=btwsz5lfvfne27v8o0wm747zs&st=h8ar79pn&dl=0)
 
 
 ## Mechanics
@@ -38,7 +34,4 @@ There are several game mechanics, it's not needed to know, but you can have some
 ![{78B2FAC2-83CD-4318-8FAA-B141238422FC}](https://github.com/user-attachments/assets/2ba7c1ce-1e5f-4c0e-b29a-b81f81673c76)
 
 # Download Link
-https://www.dropbox.com/scl/fi/t1ahckf6r4pspeibapma2/Platformer.zip?rlkey=96wv2uqaj9ounpo34ap47x0k5&st=s4oiajfg&dl=1
-
-How to download in 3 steps:
-https://github.com/Az0xV/Az0xV/blob/main/GAMEDOWNLOAD.md
+https://az0xv.itch.io/platformer
